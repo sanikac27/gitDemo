@@ -1,6 +1,0 @@
-My First Tech Post
-Today, I delved into the world of programming and technology.
-Topics Covered:
-- Basics of programming
-- Introduction to version control
-Excited to share more tech insights!

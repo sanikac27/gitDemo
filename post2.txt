@@ -1,0 +1,6 @@
+My Second Blog Post
+Today, I learned more about Git and its powerful features.
+What I Learned:
+ How to make and revert changes
+ How to reset commits
+ Looking forward to exploring more!

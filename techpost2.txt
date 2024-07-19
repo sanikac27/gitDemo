@@ -1,0 +1,6 @@
+My Second Tech Post
+In basics of programming, I have Covered
+-Variables and Data Types 
+-Control Structures
+-Functions
+-Debugging and Testing
